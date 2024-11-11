@@ -2,7 +2,7 @@
 ## Provider Configuration
 ##
 provider "google" {
-  project = "tnn-sb-t991100"
+  project = "xxxx"
   region  = "europe-north1"
 }
 
